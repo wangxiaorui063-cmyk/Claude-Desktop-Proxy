@@ -96,7 +96,6 @@ Claude Desktop 内部会根据任务复杂度使用不同模型（Opus / Sonnet 
 {
   "modelMapping": {
     "claude-opus-4-7": "deepseek-v4-pro",
-    "claude-sonnet-4-5": "deepseek-v3",
     "claude-haiku-4-5-20251001": "deepseek-v4-flash"
   }
 }
