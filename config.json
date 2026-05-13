@@ -1,0 +1,13 @@
+{
+  "proxy": {
+    "host": "localhost",
+    "port": 3456
+  },
+  "upstream": {
+    "baseUrl": "https://api.deepseek.com/anthropic"
+  },
+  "modelMapping": {
+    "claude-opus-4-7": "deepseek-v4-pro",
+    "claude-haiku-4-5-20251001": "deepseek-v4-flash"
+  }
+}
